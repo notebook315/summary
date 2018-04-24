@@ -9,5 +9,7 @@
   * [函数使用](py_function.md)
   * [模块与包](py_module.md)
   * [安装第三方库](py_installThirdPartyLibraries.md)
+  * [文件IO操作](py_IO.md)
+  * [异常处理](py_exception.md)
 * 常用操作
   * [连接数据库](py_PDBC.md)
